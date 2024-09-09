@@ -1,6 +1,3 @@
-```markdown
-## **README.md Descontraído para a Sua Roleta da Fome**
-
 ### **Roleta da Fome: Encontre a sua próxima refeição!** 
 
 **O que é?**
